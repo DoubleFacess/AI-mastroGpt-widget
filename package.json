@@ -1,0 +1,19 @@
+{
+  "name": "mastrogpt-widget",
+  "version": "0.0.1",
+  "description": "Vanilla Js Tailwind Css Chat Gpt for https://www.nuvolaris.io/",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "javascript",
+    "widget",
+    "chatgpt",
+    "mastrogpt",
+    "nuvolaris"
+  ],
+  "author": "electrics.sheeps@gmail.com",
+  "license": "ISC"
+}
